@@ -1,0 +1,5 @@
+// ROLLUP_NO_REPLACE 
+ const index = "{\"parsed\":{\"_path\":\"/note/program\",\"_dir\":\"note\",\"_draft\":false,\"_partial\":false,\"_locale\":\"en\",\"_empty\":false,\"title\":\"program\",\"description\":\"description\",\"excerpt\":{\"type\":\"root\",\"children\":[{\"type\":\"element\",\"tag\":\"h1\",\"props\":{\"id\":\"program\"},\"children\":[{\"type\":\"text\",\"value\":\"program\"}]},{\"type\":\"element\",\"tag\":\"p\",\"props\":{},\"children\":[{\"type\":\"text\",\"value\":\"description\"}]}]},\"body\":{\"type\":\"root\",\"children\":[{\"type\":\"element\",\"tag\":\"h1\",\"props\":{\"id\":\"program\"},\"children\":[{\"type\":\"text\",\"value\":\"program\"}]},{\"type\":\"element\",\"tag\":\"p\",\"props\":{},\"children\":[{\"type\":\"text\",\"value\":\"description\"}]}],\"toc\":{\"title\":\"\",\"searchDepth\":2,\"depth\":2,\"links\":[]}},\"_type\":\"markdown\",\"_id\":\"content:3.Note:1.program:index.md\",\"_source\":\"content\",\"_file\":\"3.Note/1.program/index.md\",\"_extension\":\"md\"},\"hash\":\"Soa5uUEYBj\"}";
+
+export { index as default };
+//# sourceMappingURL=index.mjs.map
