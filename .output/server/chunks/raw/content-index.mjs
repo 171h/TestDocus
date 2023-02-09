@@ -1,0 +1,5 @@
+// ROLLUP_NO_REPLACE 
+ const contentIndex = "{\"/\":[\"content:0.index.md\"],\"/test\":[\"content:1.test:1.index.md\"],\"/test/test1-copy\":[\"content:1.test:2.test1 copy.md\"],\"/test/test1-copy-4\":[\"content:1.test:3.test1 copy 4.md\"],\"/test/test1-copy-3\":[\"content:1.test:4.test1 copy 3.md\"],\"/test/test5\":[\"content:1.test:test5.md\"],\"/note\":[\"content:3.Note:0.index.md\"],\"/note/test\":[\"content:3.Note:1.test.md\"],\"/guide\":[\"content:2.guide:0.index.md\"],\"/guide/guide1\":[\"content:2.guide:1.guide1.md\"],\"/guide/_dir\":[\"content:2.guide:_dir.yml\"],\"/guide/test\":[\"content:2.guide:0.test:1.index.md\"],\"/guide/test/test1-copy\":[\"content:2.guide:0.test:2.test1 copy.md\"],\"/guide/test/test1-copy-4\":[\"content:2.guide:0.test:3.test1 copy 4.md\"],\"/guide/test/test1-copy-3\":[\"content:2.guide:0.test:4.test1 copy 3.md\"],\"/guide/test/test5\":[\"content:2.guide:0.test:test5.md\"]}";
+
+export { contentIndex as default };
+//# sourceMappingURL=content-index.mjs.map

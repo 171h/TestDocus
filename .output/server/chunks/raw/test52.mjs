@@ -1,0 +1,5 @@
+// ROLLUP_NO_REPLACE 
+ const test5 = "{\"parsed\":{\"_path\":\"/guide/test/test5\",\"_dir\":\"test\",\"_draft\":false,\"_partial\":false,\"_locale\":\"en\",\"_empty\":false,\"title\":\"test3\",\"description\":\"\",\"body\":{\"type\":\"root\",\"children\":[{\"type\":\"element\",\"tag\":\"h1\",\"props\":{\"id\":\"test3\"},\"children\":[{\"type\":\"text\",\"value\":\"test3\"}]}],\"toc\":{\"title\":\"\",\"searchDepth\":2,\"depth\":2,\"links\":[]}},\"_type\":\"markdown\",\"_id\":\"content:2.guide:0.test:test5.md\",\"_source\":\"content\",\"_file\":\"2.guide/0.test/test5.md\",\"_extension\":\"md\"},\"hash\":\"G8KBGCAEag\"}";
+
+export { test5 as default };
+//# sourceMappingURL=test52.mjs.map

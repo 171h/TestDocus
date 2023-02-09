@@ -1,0 +1,1 @@
+import{b as t,o as _,e as s,f as o,H as a}from"./entry.d8e26afa.js";const n={},r={class:"table-wrapper"};function c(e,d){return _(),s("div",r,[o("table",null,[a(e.$slots,"default",{},void 0,!0)])])}const f=t(n,[["render",c],["__scopeId","data-v-78f198db"]]);export{f as default};
